@@ -1,5 +1,5 @@
 -  Hi, I’m @duncanmd2
--  I’m a 3rd year student at Virginia Commonwealth University. I am studying Computer Science with a concentration in cybersecuirty. I also an working on 
+-  I’m a 3rd year student at Virginia Commonwealth University. I am studying Computer Science with a concentration in cybersecurity. I also an working on 
     Mathematics and Russian Studies minors. 
 
 
